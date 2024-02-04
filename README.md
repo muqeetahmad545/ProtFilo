@@ -40,7 +40,7 @@ npm start
 Note: Configuring environment variables before deploying your portfolio is highly recommended as some components depend on API data. 
 
 ```bash
-- DeveloperFolio
+-Portfolio-Muqeet-Ahamd
   - node_modules
   - public
   - src
